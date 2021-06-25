@@ -7,6 +7,6 @@ async def start(client, message):
     joinButton = InlineKeyboardMarkup([
         [InlineKeyboardButton("• Channel ", url="https://t.me/JMTHON")],
     ])
-    welcomed = f"🧸 ┇  مرحبا بك : <b>{message.from_user.first_name}</b>\n\nيمكنك تحميل من يوتيوب بأستخدام البوت .\nارسل رابط الاغنية فقـط-- -- -- -- -- -- -- -- -- -- -- -- -- --"
+    welcomed = f"**🧸 ┇  مرحبا بك : <b>{message.from_user.first_name}</b>\n\nيمكنك تحميل من يوتيوب بأستخدام البوت .\nارسل رابط الاغنية فقـط -- -- -- -- -- -- -- -- -- -- -- -- -- --**"
     await message.reply_text(welcomed, reply_markup=joinButton)
     raise StopPropagation
