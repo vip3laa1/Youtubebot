@@ -5,9 +5,9 @@
   "keywords": [
     "Youtube","YoutubeDownloader"
   ],
-  "repository": "https://github.com/JMTHON-AR/Youtube",
+  "repository": "https://github.com/JMTHON-AR/Youtubebot",
   "success_url": "https://t.me/JMTHON",
-  "website": "https://github.com/JMTHON-AR/Youtube",
+  "website": "https://github.com/JMTHON-AR/Youtubebot",
   "env": {
         "API_ID": {"description": "هـنا ضع الأيـبي ايدي", "required": true},
         "API_HASH": {"description": "هـنا ضع الأيبـي هاش" , "required": true},
