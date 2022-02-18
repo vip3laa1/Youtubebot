@@ -1,9 +1,8 @@
 ## تنصيب بوت تـحميل من اليـوتيوب 
 
     
-## شـكرا للـمطورين
-* [جـاسم](https://t.me/SBB_B) 
-* [مـحمد](https://t.me/RR9R7)
-* [جـمثون](https://t.me/JMTHON)
+## dev
+* [alaa](https://t.me/alaa_i1) 
 
-[![نصب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JMTHON-AR/Youtube)
+
+[![نصب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vip3laa1/Youtube)
